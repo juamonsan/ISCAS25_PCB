@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100%"
-   height="100%"
-   viewBox="0 0 10000 10000"
+   width="2249.0381mm"
+   height="926.04169mm"
+   viewBox="0 0 8500.3014 3500.0001"
    version="1.1"
    xml:space="preserve"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
    id="svg1001"
    sodipodi:docname="ISCAS_Gingerbread_square - 2.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,31 +24,27 @@
    inkscape:deskcolor="#505050"
    showgrid="false"
    inkscape:zoom="0.044194174"
-   inkscape:cx="-1267.1353"
-   inkscape:cy="6833.4799"
+   inkscape:cx="5521.0897"
+   inkscape:cy="5634.2268"
    inkscape:window-width="1920"
    inkscape:window-height="1027"
    inkscape:window-x="1912"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g3640" />
-    <g
-   id="Edge.Cuts"
-   transform="matrix(1.0253308,0,0,1,-179.68881,-5297.3954)">
-        
+   inkscape:current-layer="svg1001"
+   inkscape:document-units="mm" />
     <path
    id="rect5231"
-   style="clip-rule:evenodd;opacity:1;fill:#26a269;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-   d="m 1728.543,9108.668 c -553.999,0 -1000.00003,446.001 -1000.00003,1000 v 1500 c 0,553.998 446.00103,1000 1000.00003,1000 h 6500.3008 c 553.9988,0 1000,-446.002 1000,-1000 v -1500 c 0,-553.999 -446.0012,-1000 -1000,-1000 z m -471.875,2160.457 h 1443.75 c 57.1312,0 103.125,37.91 103.125,85 0,47.09 -45.9938,85 -103.125,85 h -1443.75 c -57.1312,0 -103.125,-37.91 -103.125,-85 0,-47.09 45.9938,-85 103.125,-85 z m 6000.3008,0 h 1443.75 c 57.131,0 103.125,37.91 103.125,85 0,47.09 -45.994,85 -103.125,85 h -1443.75 c -57.1312,0 -103.125,-37.91 -103.125,-85 0,-47.09 45.9938,-85 103.125,-85 z"
-   inkscape:label="BB"
-   transform="matrix(0.975295,0,0,1,196.02988,769.33217)" /></g><g
+   style="clip-rule:evenodd;fill:#26a269;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   d="M 999.99998,-3.1738284e-4 C 446.00098,-3.1738284e-4 -6.1567346e-5,446.00068 -6.1567346e-5,999.99968 V 2499.9997 c 0,553.998 446.001041567346,1000 1000.000041567346,1000 H 7500.3008 c 553.9988,0 1000,-446.002 1000,-1000 V 999.99968 c 0,-553.999 -446.0012,-999.99999738284 -1000,-999.99999738284 z M 528.12498,2160.4567 H 1971.875 c 57.1312,0 103.125,37.91 103.125,85 0,47.09 -45.9938,85 -103.125,85 H 528.12498 c -57.1312,0 -103.125,-37.91 -103.125,-85 0,-47.09 45.9938,-85 103.125,-85 z m 6000.30082,0 h 1443.75 c 57.131,0 103.125,37.91 103.125,85 0,47.09 -45.994,85 -103.125,85 h -1443.75 c -57.1312,0 -103.125,-37.91 -103.125,-85 0,-47.09 45.9938,-85 103.125,-85 z"
+   inkscape:label="Edge.Cuts" /><g
    id="g3644"
    inkscape:label="B.Cu"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-   transform="translate(21.306661,-4528.0632)"><g
+   transform="translate(-728.54303,-9108.6683)"><g
      id="g5446"
      inkscape:label="CuB"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><path
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><path
        id="path5424"
        style="clip-rule:evenodd;opacity:1;fill:#f8e45c;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
        d="m 1457.4805,10786.652 c -276.9998,0 -500.00003,223.001 -500.00003,500 v 131.369 c 0,277 223.00023,500 500.00003,500 h 1042.125 c 276.9997,0 500,-223 500,-500 v -131.369 c 0,-276.999 -223.0003,-500 -500,-500 z m -200.8125,482.473 h 1443.75 c 57.1311,0 103.125,37.91 103.125,85 0,47.09 -45.9939,85 -103.125,85 h -1443.75 c -57.1312,0 -103.125,-37.91 -103.125,-85 0,-47.09 45.9938,-85 103.125,-85 z"
@@ -60,10 +56,10 @@
    id="g3640"
    inkscape:label="B.Mask"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-   transform="translate(21.306661,-4528.0632)"><g
+   transform="translate(-728.54303,-9108.6683)"><g
      id="g5442"
      inkscape:label="SolderslotBB"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;fill:#cdab8f"
+     style="clip-rule:evenodd;fill:#cdab8f;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      transform="matrix(1.1440129,0,0,0.99985729,-801.49821,-2278.1336)"><rect
        style="clip-rule:evenodd;fill:#cdab8f;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
        id="rect3655-5"
@@ -97,25 +93,8 @@
        y="11439.125"
        inkscape:label="SolderslotBBR"
        transform="matrix(0.87411602,0,0,1.0001427,700.60242,2278.4588)" /></g></g>
-    <g
-   id="F.Cu"
-   transform="translate(12.512443,-6782.6973)">
-        
-    </g>
-    <g
-   id="F.Mask"
-   transform="matrix(1.1440129,0,0,0.99985729,-780.19155,-6806.1968)"
-   style="fill:#cdab8f">
-        
-    </g>
-    <g
-   id="F.SilkS"
-   transform="translate(-8.7942184,-2254.6341)">
-        
-    </g>
-    <g
-   id="Drills"
-   transform="translate(392.59571,-4528.0632)">
-        
-    </g>
+    
+    
+    
+    
 </svg>
