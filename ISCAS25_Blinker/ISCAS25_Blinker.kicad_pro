@@ -558,12 +558,186 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Category",
+          "name": "Category",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Chip Technology",
+          "name": "Chip Technology",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ComponentLink1Description",
+          "name": "ComponentLink1Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ComponentLink1URL",
+          "name": "ComponentLink1URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ComponentLink2Description",
+          "name": "ComponentLink2Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ComponentLink2URL",
+          "name": "ComponentLink2URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Dominant Wavelength (Blue)",
+          "name": "Dominant Wavelength (Blue)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Dominant Wavelength (Red)",
+          "name": "Dominant Wavelength (Red)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Emitting Color",
+          "name": "Emitting Color",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Forward Voltage (Blue)",
+          "name": "Forward Voltage (Blue)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Forward Voltage (Red)",
+          "name": "Forward Voltage (Red)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Length",
+          "name": "Length",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Luminous Intensity (Blue)",
+          "name": "Luminous Intensity (Blue)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Luminous Intensity (Red)",
+          "name": "Luminous Intensity (Red)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part Number",
+          "name": "Manufacturer Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Match Code",
+          "name": "Match Code",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mount",
+          "name": "Mount",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Operating Temperature Max",
+          "name": "Operating Temperature Max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Operating Temperature Min",
+          "name": "Operating Temperature Min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Packaging",
+          "name": "Packaging",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Peak Wavelength (Blue)",
+          "name": "Peak Wavelength (Blue)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Peak Wavelength (Red)",
+          "name": "Peak Wavelength (Red)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Viewing Angle",
+          "name": "Viewing Angle",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Width",
+          "name": "Width",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Case/Size Code",
+          "name": "Case/Size Code",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
